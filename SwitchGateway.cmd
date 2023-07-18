@@ -1,0 +1,1 @@
+powershell.exe -File "C:\Program Files\SwitchGateway\SwitchGateway.ps1"
